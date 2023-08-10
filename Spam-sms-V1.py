@@ -327,7 +327,6 @@ def main():
     autoketik(f"Selamat datang di {merah}TOOLS JAMBI CYBER TEAM")
     print(f"""{kuning}Author      : {hijau}JAMBI CYBER TEAM TOOLS
 {kuning}Telegram      : {merah}https://t.me/jambicyberteam
-{kuning}Website      : {white}http://www.fakesec666.my.id
 {kuning}TikTok   : {biru}www.tiktok.com/@fakesec666""")
     # Contoh : +628*********
     print(nomor := input(f"{hijau}Masukkan Nomor Target Lu Ker: {putih}")) # Walrus Operator untuk inputan Nomor Target
