@@ -325,7 +325,7 @@ def start(nomor,x):
 def main():
     os.system("clear") # Clear Terminal agar CMD berwarna
     autoketik(f"Selamat datang di {merah}TOOLS JAMBI CYBER TEAM")
-    print(f"""{kuning}Author      : {hijau}JAMBI CYBER TEAM TOOLS
+    print(f"""{kuning}Author        : {hijau}JAMBI CYBER TEAM TOOLS
 {kuning}Telegram      : {merah}https://t.me/jambicyberteam
 {kuning}TikTok        : {biru}www.tiktok.com/@fakesec666""")
     # Contoh : +628*********
