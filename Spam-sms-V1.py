@@ -329,7 +329,7 @@ def main():
 {kuning}Telegram      : {merah}https://t.me/jambicyberteam
 {kuning}TikTok        : {biru}www.tiktok.com/@fakesec666""")
     # Contoh : +628*********
-    print(nomor := input(f"{hijau}Masukkan Nomor Target Lu Ker: {green}")) # Walrus Operator untuk inputan Nomor Target
+    print(nomor := input(f"{hijau}Masukkan Nomor Target Lu Ker: {putih}")) # Walrus Operator untuk inputan Nomor Target
     start(nomor,0) # Memulai Tools
 
 try:
